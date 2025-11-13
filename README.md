@@ -1,2 +1,3 @@
-# FluctSDK-iOS-Swift-Package
-FluctSDK-iOS-Swift-Package
+# FluctSDKSwiftPM
+
+FluctSDK SwiftPMにまつわるプロジェクトです
