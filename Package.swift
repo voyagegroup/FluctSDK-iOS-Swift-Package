@@ -15,7 +15,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "FluctSDK",
-                      url: "https://github.com/voyagegroup/FluctSDK-iOS-Swift-Package/releases/download/6.44.3/FluctSDK.xcframework.zip", checksum: "00164eaa51f5d3036958883ade2c3a825431f4e2ab4e03476cd8b30b5696cae2"),
+                      url: "https://github.com/voyagegroup/FluctSDK-iOS-Swift-Package/releases/download/6.44.4/FluctSDK.xcframework.zip", checksum: "b93642fdf30d7d11e3cb4f152f8699dff68bfd6345d4a6676a5d82b770199600"),
         .target(
             name: "FluctSDKResources",
             dependencies: [
